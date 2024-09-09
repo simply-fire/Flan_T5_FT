@@ -1,3 +1,3 @@
 # Flan_T5_FT
 
-*In this Repo, we will fine-tune the [Flan-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5) model for enhanced dialogue summarization. we will first explore a full fine-tuning approach and evaluate the results with ROUGE metrics. Then we will perform Parameter-Efficient Fine-Tuning (PEFT), evaluate the resulting model and see that the benefits of PEFT outweigh the slightly-lower performance metrics.* 
+*In this Repo, we will fine-tune the [Flan-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5) model for enhanced dialogue summarization. we will first explore a full fine-tuning approach and evaluate the results with ROUGE metrics. Then we will perform Parameter-Efficient Fine-Tuning (PEFT), evaluate the resulting model and see that the benefits of PEFT outweigh the slightly-lower performance metrics.*
